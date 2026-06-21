@@ -1,4 +1,4 @@
-# 🔇 Silent Exit — E-Commerce Customer Churn Analysis
+# 🔇 Silent Drift — E-Commerce Customer Churn Analysis
 
 > *"Customers don't always say goodbye. They just stop showing up."*
 
@@ -8,11 +8,11 @@
 ---
 
 ## 📊 Live Dashboard
-🔗 **[View Interactive Dashboard](https://datastudio.google.com/reporting/aaa25d00-0e9b-4db2-867e-b3bb14ed35dd)**
+🔗 [Click here to view Dashboard](https://datastudio.google.com/reporting/aaa25d00-0e9b-4db2-867e-b3bb14ed35dd)
 
 ---
 
-## 📌 What is Silent Exit?
+## 📌 What is Silent Drift?
 
 In e-commerce, most customers don't cancel — they simply **stop buying**.  
 No warning. No complaint. No goodbye.  
@@ -29,16 +29,15 @@ This project answers:
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](dashboard/Page_1.jpeg)
+![Executive Overview](dashboard/page1_executive_overview.png)
 
-### Page 2 — Customer Behavioral Analysis
-![Customer Behavior](dashboard/Page_2.jpeg)
+### Page 2 — Customer and Behavior Analysis
+![Customer Behavior](dashboard/page2_customer_analysis.png)
 
 ### Page 3 — Revenue & Risk Analysis
-![Revenue Risk](dashboard/Page_3.jpeg)
+![Revenue Risk](dashboard/page3_risk_analysis.png)
 
-### Page 4 — Customer Profile Deepdive
-![Customer Profile](dashboard/Page_4.png)
+
 
 ---
 
@@ -49,7 +48,7 @@ This project answers:
 | Page 1 | Executive Overview | What is our overall churn situation? |
 | Page 2 | Customer Behavioral Analysis | Who churns and when? |
 | Page 3 | Revenue & Risk Analysis | Where is money at risk? |
-| Page 4 | Customer Profile Deepdive | Geographic and category patterns |
+
 
 ---
 
@@ -90,7 +89,7 @@ This project answers:
 
 ---
 
-### Page 2 — Customer Behavioral Analysis
+### Page 2 — Customer and Behavior Analysis
 
 | Metric | Value |
 |--------|-------|
@@ -206,7 +205,7 @@ This project answers:
 |------|---------|
 | **Google BigQuery** | Data storage, cleaning, analysis |
 | **SQL (BigQuery dialect)** | All transformations, window functions, RFM scoring |
-| **Looker Studio** | 4-page interactive dashboard |
+| **Looker Studio** | 3-page interactive dashboard |
 | **Google Cloud Platform** | Cloud infrastructure |
 | **Python (pandas, numpy)** | Dataset generation |
 
@@ -215,7 +214,7 @@ This project answers:
 ## 📁 Project Structure
 
 ```
-silent-exit/
+Silent-Drfit/
 │
 ├── README.md
 │
@@ -234,7 +233,7 @@ silent-exit/
 │   ├── Page_1.jpeg
 │   ├── Page_2.jpeg
 │   ├── Page_3.jpeg
-│   └── Page_4.png
+│
 │
 └── data/
     ├── customers_raw.jpeg
@@ -312,15 +311,31 @@ All devices and channels show uniform ~37–38% churn — engagement drives chur
 
 ## 💼 Resume Description
 
-> **Silent Exit — E-Commerce Customer Churn Analysis** | BigQuery · SQL · Looker Studio · GCP
+> **Silent Drift — E-Commerce Customer Churn Analysis** | BigQuery · SQL · Looker Studio · GCP
 > - Cleaned and analyzed **1,05,000 customer records**, resolving 15+ real-world data quality issues including invalid emails, impossible ages, negative spend, duplicates, and mixed-format fields
 > - Built a **SQL-based RFM churn risk scoring model** (no ML) — identified 9,069 high-risk active customers representing **₹9.84M revenue at immediate risk**
 > - Discovered customers inactive 365+ days churn at **54.48% vs 16.47%** for recent buyers — 3x higher
 > - Quantified **₹543.6M revenue lost** to churn (28.1% of ₹1.92B total)
-> - Delivered **4-page interactive Looker Studio dashboard** with India geo map, RFM risk table, segment analysis, and business insight notes
+> - Delivered **3-page interactive Looker Studio dashboard** with  RFM risk table, segment analysis, and business insight notes
 
 ---
 
 ## 👤 Author
-**Poojitha Attili**  
-[LinkedIn](https://www.linkedin.com/in/poojitha-attili/) · [Live Dashboard](https://datastudio.google.com/reporting/aaa25d00-0e9b-4db2-867e-b3bb14ed35dd)
+**Sravanthi Kanisetti**  
+[LinkedIn](https://www.linkedin.com/in/sravanthi-kanisetti-116a542b6/) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
