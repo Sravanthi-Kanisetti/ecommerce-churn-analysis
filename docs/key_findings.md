@@ -185,4 +185,4 @@ From the Top High Risk Customers table:
 
 ---
 
-*Dashboard: Silent Exit — E-Commerce Churn Analysis | Data Source: Power BI Dashboard (No filters applied)*
+*Dashboard: Silent Drift — E-Commerce Churn Analysis | Data Source: Power BI Dashboard*
