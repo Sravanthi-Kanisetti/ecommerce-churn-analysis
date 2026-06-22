@@ -54,123 +54,27 @@ This project answers:
 
 ## 🔑 Key Findings (From Dashboard)
 
-### Page 1 — Executive Overview
 
-| Metric | Value |
-|--------|-------|
-| Total Customers | 89,075 |
-| Churn Rate | 37.43% |
-| Churned Customers | 33,340 |
-| Revenue Lost | ₹543.6M |
-| Active Customers | 55,735 |
-| Total Revenue | ₹1.92 Billion |
-| Active Revenue Share | 71.9% |
-| Churned Revenue Share | 28.1% |
-
-**Membership Tier Churn Rates:**
-
-| Tier | Churn Rate |
-|------|------------|
-| None | 53.08% |
-| Silver | 38.66% |
-| Gold | 30.15% |
-| Platinum | 23.68% |
-
-**Yearly Churn Growth:**
-
-| Year | Churned Customers |
-|------|------------------|
-| 2021 | 1,500 |
-| 2022 | 6,800 |
-| 2023 | 14,000 |
-| 2024 | 11,000 (Jan–Jun only) |
-
-> 💡 **Insight:** None-tier members are 2x more likely to churn than Platinum, and yearly churn has grown 9x since 2021 — signaling an urgent need for retention intervention.
-
----
-
-### Page 2 — Customer and Behavior Analysis
-
-| Metric | Value |
-|--------|-------|
-| Total Complaints | 26,830 |
-| Total Orders Placed | 887,510 |
-| Total Sessions | 674,973 |
-| Avg Order Value | ₹1,637.65 |
-| Total Revenue Lost | ₹543.6M |
-
-**Churn Rate by Recency Bucket:**
-
-| Recency | Churn Rate |
-|---------|------------|
-| 0–30 days | 16.47% |
-| 31–90 days | 15.71% |
-| 91–180 days | 24.48% |
-| 181–365 days | 40.40% |
-| 365+ days | **54.48%** |
-
-**Churn Rate by Device:**
-
-| Device | Churn Rate |
-|--------|------------|
-| Mobile App | 38.01% |
-| Desktop | 37.83% |
-| Tablet | 37.10% |
-| Mobile | 37.02% |
-
-**Churn Rate by Gender:**
-
-| Gender | Churn Rate |
-|--------|------------|
-| Female | 37.62% |
-| Male | 37.33% |
-| Other | 37.03% |
-| Unknown | 36.76% |
-
-**Churn Rate by Acquisition Channel:** All channels uniform at ~36–38%. Facebook Ads, Influencer, Google Ads, Email Campaign, Instagram, Affiliate all at 38%. WhatsApp lowest at 36%.
-
-> 💡 **Insight:** Customers inactive for 365+ days churn at 54.48% — nearly 3x higher than recent buyers, making timely re-engagement the #1 retention priority.
-
----
-
-### Page 3 — Revenue & Risk Analysis
-
-| Metric | Value |
-|--------|-------|
-| High Risk Customers | 9,069 |
-| Medium Risk Customers | 38,931 |
-| Revenue At Risk | ₹9.84M |
-| Avg Risk Score | 39.9 |
-| Lost Customers | 2,672 |
-
-**Risk Tier Distribution:**
-
-| Risk Tier | % of Base |
-|-----------|-----------|
-| 🟢 Low Risk | 44.5% |
-| 🟡 Medium Risk | 45% |
-| 🔴 High Risk | 10.5% |
-
-**Revenue by Risk Tier:**
-
-| Risk Tier | Revenue |
-|-----------|---------|
-| Low Risk | ₹1.15B |
-| Medium Risk | ₹758.84M |
-| High Risk | ₹9.84M |
-| **Grand Total** | **₹1.92B** |
-
-**Customer Segments (RFM):**
-
-| Segment | Customers |
-|---------|-----------|
-| At Risk | 27,079 |
-| Loyal Customers | 25,975 |
-| About to Churn | 17,987 |
-| Champions | 12,829 |
-| Lost | 2,672 |
-
-> 💡 **Insight:** High-risk customers (10.5% of base) hold ₹9.84M revenue at risk — immediate retention outreach needed before they churn.
+| # | Finding | Value |
+|---|---------|-------|
+| 1 | Overall churn rate | 37.43% |
+| 2 | Total customers | 89,075 |
+| 3 | Churned customers | 33,340 |
+| 4 | Active customers | 55,735 |
+| 5 | Total revenue | ₹1.92 Billion |
+| 6 | Revenue lost to churn | ₹543.6M (28.1%) |
+| 7 | Active revenue retained | 71.9% |
+| 8 | None-tier churn rate | 53.08% |
+| 9 | Platinum churn rate | 23.68% |
+| 10 | 365+ day inactive churn | 54.48% |
+| 11 | 0–30 day active churn | 16.47% |
+| 12 | Yearly churn growth | ~1,500 (2021) → ~14,000 (2023 peak) |
+| 13 | High risk customers | 9,069 |
+| 14 | Medium risk customers | 38,931 |
+| 15 | Revenue at risk | ₹9.84M |
+| 16 | Avg risk score | 39.9 |
+| 17 | Lost customers (RFM) | 2,672 |
+| 18 | Avg order value | ₹1,637.65 (most used metric) |
 
 ---
 
